@@ -11,6 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How do Wasps build their nests?](https://aadarshram.github.io/2024-08-18-How-do-wasps-build-their-nests/)
+- [Why blog your work?](https://aadarshram.github.io/2024-08-17-why-blog-your-work/)
+- [Sample blog post to learn markdown tips](https://aadarshram.github.io/2020-02-28-sample-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

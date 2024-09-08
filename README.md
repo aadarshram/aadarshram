@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Multi-Stop Travel with a Route Optimizer Chrome Extension for Google Maps](https://aadarshram.github.io/2024-09-08-Simplifying-Multi-Stop-Travel-with-a-Route-Optimizer-Chrome-Extension-for-Google-Maps/)
 - [How do Wasps build their nests?](https://aadarshram.github.io/2024-08-18-How-do-wasps-build-their-nests/)
 - [Why blog your work?](https://aadarshram.github.io/2024-08-17-why-blog-your-work/)
 - [Sample blog post to learn markdown tips](https://aadarshram.github.io/2020-02-28-sample-markdown/)

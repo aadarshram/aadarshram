@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [On Positional Embeddings in Transformers](https://aadarshram.github.io/2025-04-04-On-Positional-Embeddings-in-Transformers/)
 - [Introducing ConsumerWise- An AI-Powered Nutrient Analysis Tool](https://aadarshram.github.io/2024-10-03-ConsumerWise-An-AI-Powered-Nutrient-Analysis-Tool/)
 - [Simplifying Multi-Stop Travel with a Route Optimizer Chrome Extension for Google Maps](https://aadarshram.github.io/2024-09-08-Simplifying-Multi-Stop-Travel-with-a-Route-Optimizer-Chrome-Extension-for-Google-Maps/)
 - [How do Wasps build their nests?](https://aadarshram.github.io/2024-08-18-How-do-wasps-build-their-nests/)
-- [Why blog your work?](https://aadarshram.github.io/2024-08-17-why-blog-your-work/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The NUS Young Fellowship Programme](https://aadarshram.github.io/2025-07-26-The-NUS-Young-Fellowship-Programme.md/)
 - [How Robotics Got Smart: Physical AI, Robotic Foundation Models, and the Path to Embodied Intelligence](https://aadarshram.github.io/2025-05-14-How-Robotics-Got-Smart-Physical-AI,-Robotic-Foundation-Models,-and-the-path-to-Embodied-Intelligence/)
 - [On Positional Embeddings in Transformers](https://aadarshram.github.io/2025-04-04-On-Positional-Embeddings-in-Transformers/)
 - [Introducing ConsumerWise- An AI-Powered Nutrient Analysis Tool](https://aadarshram.github.io/2024-10-03-ConsumerWise-An-AI-Powered-Nutrient-Analysis-Tool/)
-- [Simplifying Multi-Stop Travel with a Route Optimizer Chrome Extension for Google Maps](https://aadarshram.github.io/2024-09-08-Simplifying-Multi-Stop-Travel-with-a-Route-Optimizer-Chrome-Extension-for-Google-Maps/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

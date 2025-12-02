@@ -2,6 +2,7 @@
 <h3 align="center">A sophomore undergraduate studying Electrical Engineering at IIT Madras</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadarshram](https://github.com/aadarshram)
+- Short experiments in github gists - https://gist.github.com/aadarshram
 
 - 📝 I write about my work on [https://aadarshram.github.io/](https://aadarshram.github.io/)
 

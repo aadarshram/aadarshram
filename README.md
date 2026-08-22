@@ -12,10 +12,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [On Race Strategy for the World Solar Challenge](https://aadarshram.github.io/2026-08-22-On-Race-Strategy-for-the-World-Solar-Challenge/)
 - [Live in the future and build whats missing.](https://aadarshram.github.io/2026-04-29-Live-in-the-future-and-build-whats-missing/)
 - [On Gift Kitting, Chaos, and Why Build Robots](https://aadarshram.github.io/2026-04-14-On-Gift-Kitting-and-Robots/)
 - [Introducing LeX-O: The Robot Agent That Challenges You to Tic Tac Toe](https://aadarshram.github.io/2025-07-29-Le-X-O/)
-- [The NUS Young Fellowship Programme](https://aadarshram.github.io/2025-07-26-The-NUS-Young-Fellowship-Programme.md/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

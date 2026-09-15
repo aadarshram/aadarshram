@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aadarsh Ramachandran</h1>
-<h3 align="center">A sophomore undergraduate studying Electrical Engineering at IIT Madras</h3>
+<h1 align="center">Hi, I'm Aadarsh Ram</h1>
+<h3 align="center">A senior undergraduate pursuing Electrical Engineering at IIT Madras</h3>
+<h3 align="center">Artificial Intelligence | Robotics</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aadarshram](https://github.com/aadarshram)
-- Short experiments in github gists - https://gist.github.com/aadarshram
 
-- 📝 I write about my work on [https://aadarshram.github.io/](https://aadarshram.github.io/)
-
-- 📫 How to reach me **www.linkedin.com/in/aadarsh-ramachandran-881a08293**
-
-- ⚡ Fun fact **I like photography**
+[Website](https://aadarshram.github.io/) · [Github](https://github.com/aadarshram) · [Gists](https://gist.github.com/aadarshram) ·  [LinkedIn](www.linkedin.com/in/aadarsh-ramachandran)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

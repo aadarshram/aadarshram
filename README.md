@@ -3,7 +3,7 @@
 <h3 align="center">Artificial Intelligence | Robotics</h3>
 
 
-[Website](https://aadarshram.github.io/) · [Github](https://github.com/aadarshram) · [Gists](https://gist.github.com/aadarshram) ·  [LinkedIn](www.linkedin.com/in/aadarsh-ramachandran)
+[Website](https://aadarshram.github.io/) · [Github](https://github.com/aadarshram) · [Gists](https://gist.github.com/aadarshram) ·  [LinkedIn](https://www.linkedin.com/in/aadarsh-ramachandran/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
